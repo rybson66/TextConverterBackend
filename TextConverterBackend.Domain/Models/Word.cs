@@ -1,4 +1,4 @@
-﻿namespace TextConverterBackend.Application.Converter.Models
+﻿namespace TextConverterBackend.Domain.Models
 {
     public class Word
     {

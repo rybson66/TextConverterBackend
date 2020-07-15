@@ -1,13 +1,12 @@
 ﻿using MediatR;
-using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using TextConverterBackend.Application.Converter.Models;
 using TextConverterBackend.Application.Converter.Services;
+using TextConverterBackend.Domain.Models;
 
 namespace TextConverterBackend.Application.Converter.Commands.ConvertToCSV
 {

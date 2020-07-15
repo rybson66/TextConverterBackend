@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using TextConverterBackend.Application.Converter.Models;
+using TextConverterBackend.Domain.Models;
 
 namespace TextConverterBackend.Application.Converter.Services
 {

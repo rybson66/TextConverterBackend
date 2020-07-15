@@ -2,8 +2,8 @@
 using System.Threading;
 using System.Threading.Tasks;
 using System.Xml;
-using TextConverterBackend.Application.Converter.Models;
 using TextConverterBackend.Application.Converter.Services;
+using TextConverterBackend.Domain.Models;
 
 namespace TextConverterBackend.Application.Converter.Commands.ConvertToXML
 {
